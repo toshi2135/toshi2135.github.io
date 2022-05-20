@@ -44,7 +44,7 @@
   - HDFS, MapReduce, YARN
 - Cloud Infrastructure: Amazon Web Service (AWS), Google Cloud Platform (GCP)
   - AWS: S3, EC2, EMR, Athena, Glue, Redshift
-  - GCP: Compute Engine
+  - GCP: Compute Engine, BigQuery
 
 - Data processing: dbt, Dataform, Spark, NiFi
 - Orchestration: Airflow
