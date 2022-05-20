@@ -22,4 +22,4 @@
 
 ## Certification
 
-[![certification](docs/document.jpg)](https://confirm.udacity.com/KQHKEDDD)
+- [![certification](docs/document.jpg)](https://confirm.udacity.com/KQHKEDDD)
