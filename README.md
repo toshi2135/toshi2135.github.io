@@ -97,8 +97,11 @@
 
 ## Connect
 
-Tuan "Toshi" Nguyen
+Tuan "Toshi" Nguyen, Mr.
 
 - [Github](https://github.com/toshi2135)
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anhtuannguyenduc" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/anhtuannguyenduc?trk=profile-badge">Tuan Nguyen</a></div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 - Facebook...nah
