@@ -42,10 +42,9 @@
   - CLI, Vim, Shell scripting, Cronjobs
 - Distributed system: Hadoop
   - HDFS, MapReduce, YARN
-- Cloud Infrastructure: Amazon Web Service (AWS), Google Cloud Platform (GCP)
-  - AWS: S3, EC2, EMR, Athena, Glue, Redshift
-  - GCP: Compute Engine, BigQuery
-
+- Cloud Infrastructure:
+  - Amazon Web Service (AWS): S3, EC2, EMR, Athena, Glue, Redshift
+  - Google Cloud Platform (GCP): Compute Engine, BigQuery
 - Data processing: dbt, Dataform, Spark, NiFi
 - Orchestration: Airflow
 - Networking: Protocols (HTTP/HTTPS, TCP/UDP, IP, SSH, DNS), Firewalls, VPN, VPC
