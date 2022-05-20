@@ -98,6 +98,8 @@
 - [Udacity Data Engineering Nanodegree Certificate](https://confirm.udacity.com/KQHKEDDD)
 - IELTS 7.0
 
+---
+
 ## Connect
 
 Tuan "Toshi" Nguyen, Mr.
