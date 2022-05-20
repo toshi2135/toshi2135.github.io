@@ -4,7 +4,7 @@
 
 ## About me
 
-- Developer by day, Superhero by night
+- Developer by day, hustler by night
 - JK, I still code at night
 
 ---
@@ -56,7 +56,7 @@
 ### Web Development
 
 - Language: C#, JavaScript
-- Framework: .NET Core, Razor View, Node.js
+- Framework: ASP.NET Core, Razor View, Node.js
 - Webserver: Apache, NGINX
 
 ## Fundamental Skills
@@ -107,5 +107,5 @@ Tuan "Toshi" Nguyen, Mr.
 - [Github](https://github.com/toshi2135)
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
 - [Gmail](mailto:anhtuan.nguyenduc@gmail.com)
-- [Whatsapp](https://wa.me/+779129003)
+- [Whatsapp](https://wa.me/+84779129003)
 - Facebook ... nah
