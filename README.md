@@ -12,17 +12,17 @@
 
 - Global Fashion Group
 
-    *Aug 2021 - Now*
+    *Aug 2021 - Present*
 
     > Data Engineer II, Data Platform
 
 - Home Credit Vietnam
 
-    *May 2017 - Jul 2021*
+    *May 2018 - Jul 2021*
 
     > Data Engineer, IT Business Intelligence Solutions
 
-    *May 2017 - Jul 2021*
+    *Nov 2017 - May 2018*
 
     > Database Developer, IT Business Intelligence Solutions
 
@@ -81,16 +81,16 @@
 ## Education
 
 - University of Science - Vietnam National University, Ho Chi Minh City
-  > 2020 - 2022
 
-  Bachelor of Science, Information Technology
+    *2020 - 2022*
+
+    > Bachelor of Science, Information Technology
 
 - International University - Vietnam National University, Ho Chi Minh City
-  > 2012 - 2016
-  
-  Bachelor of Business Administration, Business Management
 
----
+    *2012 - 2016*
+
+    > Bachelor of Business Administration, Business Management
 
 ## Certification
 
