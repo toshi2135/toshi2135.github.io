@@ -1,5 +1,7 @@
+markdown: kramdown
 theme: jekyll-theme-hacker
 title: Toshi's homepage
 description: Everything about Toshi's data engineering life
+url: "https://toshi2135.github.io"
 plugins:
   - jemoji
