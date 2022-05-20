@@ -11,13 +11,13 @@
 
 ## Experience
 
-- Global Fashion Group
+- **Global Fashion Group**
 
     *Aug 2021 - Present*
 
     > Data Engineer II, Data Platform
 
-- Home Credit Vietnam
+- **Home Credit Vietnam**
 
     *May 2018 - Jul 2021*
 
@@ -81,13 +81,13 @@
 
 ## Education
 
-- University of Science - Vietnam National University, Ho Chi Minh City
+- **University of Science - Vietnam National University, Ho Chi Minh City, Vietnam**
 
     *2020 - 2022*
 
     > Bachelor of Science, Information Technology
 
-- International University - Vietnam National University, Ho Chi Minh City
+- **International University - Vietnam National University, Ho Chi Minh City, Vietnam**
 
     *2012 - 2016*
 
