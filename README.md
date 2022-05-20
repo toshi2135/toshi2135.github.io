@@ -11,18 +11,20 @@
 ## Experience
 
 - Global Fashion Group
-  > Aug 2021 - Now
 
-  Data Engineer II, Data Platform
+    *Aug 2021 - Now*
+
+    > Data Engineer II, Data Platform
 
 - Home Credit Vietnam
-  > May 2017 - Jul 2021
 
-  Data Engineer, IT Business Intelligence Solutions
+    *May 2017 - Jul 2021*
 
-  > Nov 2016 - Apr 2017
+    > Data Engineer, IT Business Intelligence Solutions
 
-  Database Developer, IT Business Intelligence Solutions
+    *May 2017 - Jul 2021*
+
+    > Database Developer, IT Business Intelligence Solutions
 
 ---
 
@@ -101,4 +103,6 @@ Tuan "Toshi" Nguyen, Mr.
 
 - [Github](https://github.com/toshi2135)
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
-- Facebook...nah
+- [Gmail](mailto:anhtuan.nguyenduc@gmail.com)
+- [Whatsapp](https://wa.me/+779129003)
+- Facebook ... nah
