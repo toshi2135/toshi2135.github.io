@@ -55,8 +55,8 @@
 
 ### Web Development
 
-- Language: C#
-- Framework: .NET Core, Razor View
+- Language: C#, JavaScript
+- Framework: .NET Core, Razor View, Node.js
 - Webserver: Apache, NGINX
 
 ## Fundamental Skills
