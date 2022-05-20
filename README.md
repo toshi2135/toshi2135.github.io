@@ -4,7 +4,8 @@
 
 ## About me
 
-- TBA
+- Developer by day, Superhero by night
+- JK, I still code at night
 
 ---
 
@@ -44,9 +45,9 @@
 - Cloud Infrastructure: Amazon Web Service (AWS), Google Cloud Platform (GCP)
   - AWS: S3, EC2, EMR, Athena, Glue, Redshift
   - GCP: Compute Engine
+
 - Data processing: dbt, Dataform, Spark, NiFi
 - Orchestration: Airflow
-
 - Networking: Protocols (HTTP/HTTPS, TCP/UDP, IP, SSH, DNS), Firewalls, VPN, VPC
 - Infrastructure-as-Code: Docker, Kubernetes, Terraform
 - CI/CD: Git, Github Actions
