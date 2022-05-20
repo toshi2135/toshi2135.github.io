@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Toshi's homepage
 description: Everything about Toshi's data engineering life
+plugins:
+  - jemoji
