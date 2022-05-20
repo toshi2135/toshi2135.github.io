@@ -33,7 +33,7 @@
 
 ### Data Engineering
 
-- Language: Python, SQL, Scala
+- Language: Python, SQL, Oracle PL/SQL, Scala
 - Framework: Pandas, Spark/PySpark
 - Database: Oracle, MySQL, PostgreSQL
 - Non-relational database: Cassandra
@@ -76,6 +76,7 @@
 - OLTP vs. OLAP
 - Horizontal vs. vertical scaling
 - Dimensional modeling
+- Extract, transform, & load (ETL)
 
 ---
 
