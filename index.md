@@ -111,22 +111,22 @@
 ## Honor & Award
 
 - Honored Employee - IT Division - Home Credit VN
-  > 2018
+  *2018*
 
 - Future Analyst Program - 2017 - Home Credit VN
-  > 2017
+  *2017*
 
 - Japan-East Asia Network of Exchange for Students and Youths (JENESYS 2016) - Theme: Economics - Vietnam Delegate
-  > Dec 2016
+  *Dec 2016*
 
 - Scholarship - Summer Semester - International University
-  > May 2016
+  *May 2016*
 
 - First Prize in Computer Science - City Level Academic Excellent Student - Ho Chi Minh City
-  > 2011
+  *2011*
 
 - Third Prize in Computer Science - City Level Academic Excellent Student - Ho Chi Minh City
-  > 2009
+  *2009*
 
 ---
 
