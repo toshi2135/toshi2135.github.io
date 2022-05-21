@@ -33,15 +33,15 @@
 
 ### Data Engineering
 
-- Language: Python, SQL, Oracle PL/SQL, Scala
+- Language: Python, Advanced SQL, Oracle PL/SQL, Scala
 - Framework: Pandas, Spark/PySpark
-- Database: Oracle, MySQL, PostgreSQL
+- Database: Oracle, MySQL, PostgreSQL, MS SQL Server
 - Non-relational database: Cassandra
 - Data warehouse: Hive, Impala, Snowflake, Redshift, BigQuery
-- OS: Linux
-  - CLI, Vim, Shell scripting, Cronjobs
-- Distributed system: Hadoop
-  - HDFS, MapReduce, YARN
+- OS:
+  - Linux: CLI, Vim, shell scripting, bash, cronjobs
+- Distributed system:
+  - Hadoop: HDFS, MapReduce, YARN
 - Cloud Infrastructure:
   - Amazon Web Service (AWS): S3, EC2, EMR, Athena, Glue, Redshift
   - Google Cloud Platform (GCP): Compute Engine, BigQuery
@@ -50,7 +50,7 @@
 - Networking: Protocols (HTTP/HTTPS, TCP/UDP, IP, SSH, DNS), Firewalls, VPN, VPC
 - Infrastructure-as-Code: Docker, Kubernetes, Terraform
 - CI/CD: Git, Github Actions
-- Visualization: Tableau, Grafana, Microsoft Power BI, Google Data Studio, Apache Superset
+- Visualization: Apache Superset, Microsoft Power BI, Google Data Studio, Tableau, Grafana,
 
 ### Web Development
 
@@ -65,6 +65,8 @@
 - Data structure & algorithms
 - Object-oriented programming (OOP)
 - Functional programming
+- Entity-relationship modeling
+- Relational modeling
   
 ### DB Fundamentals
 
@@ -93,10 +95,38 @@
 
     > Bachelor of Business Administration, Business Management
 
+- **Le Hong Phong High School for the Gifted, Ho Chi Minh City, Vietnam**
+
+    *2010 - 2012*
+
+    > High School Diploma, Computer Science - Data Structure & Algorithms
+
 ## Certification
 
 - [Udacity Data Engineering Nanodegree Certificate](https://confirm.udacity.com/KQHKEDDD)
 - IELTS 7.0
+
+---
+
+## Honor & Award
+
+- Honored Employee - IT Division - Home Credit VN
+  > 2018
+
+- Future Analyst Program - 2017 - Home Credit VN
+  > 2017
+
+- Japan-East Asia Network of Exchange for Students and Youths (JENESYS 2016) - Theme: Economics - Vietnam Delegate
+  > Dec 2016
+
+- Scholarship - Summer Semester - International University
+  > May 2016
+
+- First Prize in Computer Science - City Level Academic Excellent Student - Ho Chi Minh City
+  > 2011
+
+- Third Prize in Computer Science - City Level Academic Excellent Student - Ho Chi Minh City
+  > 2009
 
 ---
 
