@@ -42,7 +42,7 @@
   - Linux: CLI, Vim, shell scripting, bash, cronjobs
 - Distributed system:
   - Hadoop: HDFS, MapReduce, YARN
-- Cloud Infrastructure:
+- Cloud infrastructure:
   - Amazon Web Service (AWS): S3, EC2, EMR, Athena, Glue, Redshift
   - Google Cloud Platform (GCP): Compute Engine, BigQuery
 - Data processing: dbt, Dataform, Spark, NiFi
@@ -50,7 +50,7 @@
 - Networking: Protocols (HTTP/HTTPS, TCP/UDP, IP, SSH, DNS), Firewalls, VPN, VPC
 - Infrastructure-as-Code: Docker, Kubernetes, Terraform
 - CI/CD: Git, Github Actions
-- Visualization: Apache Superset, Microsoft Power BI, Google Data Studio, Tableau, Grafana,
+- Visualization: Apache Superset, Microsoft Power BI, Google Data Studio, Tableau, Grafana
 
 ### Web Development
 
