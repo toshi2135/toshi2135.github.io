@@ -38,18 +38,16 @@
 - Database: Oracle, MySQL, PostgreSQL, MS SQL Server
 - Non-relational database: Cassandra
 - Data warehouse: Hive, Impala, Snowflake, Redshift, BigQuery
-- OS:
-  - Linux: CLI, Vim, shell scripting, bash, cronjobs
-- Distributed system:
-  - Hadoop: HDFS, MapReduce, YARN
+- OS: CLI, shell scripting, bash, cronjobs
+- Distributed system: Hadoop, HDFS, MapReduce, YARN
 - Cloud infrastructure:
   - Amazon Web Service (AWS): S3, EC2, EMR, Athena, Glue, Redshift
   - Google Cloud Platform (GCP): Compute Engine, BigQuery
-- Data processing: dbt, Dataform, Spark, NiFi
+- Data processing: Spark, Nifi, dbt, Dataform
 - Orchestration: Airflow
 - Networking: Protocols (HTTP/HTTPS, TCP/UDP, IP, SSH, DNS), Firewalls, VPN, VPC
-- Infrastructure-as-Code: Docker, Kubernetes, Terraform
-- CI/CD: Git, Github Actions
+- Infrastructure-as-Code: Terraform, Docker, Kubernetes
+- CI/CD: Git, Github Actions, Jenkins
 - Visualization: Apache Superset, Microsoft Power BI, Google Data Studio, Tableau, Grafana
 
 ### Web Development
@@ -76,7 +74,7 @@
 - CAP theorem
 - OLTP vs. OLAP
 - Horizontal vs. vertical scaling
-- Dimensional modeling
+- Dimensional modelling
 - Extract, transform, & load (ETL)
 
 ---
@@ -85,7 +83,7 @@
 
 - **University of Science - Vietnam National University, Ho Chi Minh City, Vietnam**
 
-    *2020 - 2022*
+    *2019 - 2023*
 
     > Bachelor of Science, Information Technology
 
@@ -99,12 +97,12 @@
 
     *2010 - 2012*
 
-    > High School Diploma, Computer Science - Data Structure & Algorithms
+    > High School Diploma, Computer Science Specialization - Data Structure & Algorithms
 
 ## Certification
 
-- [Udacity Data Engineering Nanodegree Certificate](https://confirm.udacity.com/KQHKEDDD)
-- IELTS 7.0
+- IELTS 7.5 (2024)
+- [Udacity Data Engineering Nanodegree Certificate (2022)](https://confirm.udacity.com/KQHKEDDD)
 
 ---
 
@@ -144,4 +142,4 @@ Tuan "Toshi" Nguyen, Mr.
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
 - [Gmail](mailto:anhtuan.nguyenduc@gmail.com)
 - [Whatsapp](https://wa.me/+84779129003)
-- Facebook ... nah
+- Facebook ...
