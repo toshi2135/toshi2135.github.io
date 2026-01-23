@@ -135,4 +135,4 @@ Tuan "Toshi" Nguyen
 - [GitHub](https://github.com/toshi2135)
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
 - [Email](mailto:anhtuan.nguyenduc@gmail.com)
-- [WhatsApp](https://wa.me/+84779129003)
+- [WhatsApp](https://wa.me/+447482881491)
