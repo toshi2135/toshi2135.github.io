@@ -1,4 +1,4 @@
-# Welcome to Tuan "Toby" Nguyen personal page
+# Welcome to Toby/Tuan "toshi" Nguyen personal page
 
 > Here is what I would like you to know about me.
 
@@ -130,7 +130,7 @@
 
 ## Connect
 
-Tuan "Toshi" Nguyen
+Toby/Tuan "toshi" Nguyen
 
 - [GitHub](https://github.com/toshi2135)
 - [LinkedIn](https://www.linkedin.com/in/anhtuannguyenduc/)
