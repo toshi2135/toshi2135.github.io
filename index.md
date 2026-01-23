@@ -1,4 +1,4 @@
-# Welcome to Tuan "Toshi" Nguyen (Toby) personal page
+# Welcome to Toby Tuan Nguyen (aka _Toshi_) personal page
 
 > Here is what I would like you to know about me.
 
